@@ -1,5 +1,11 @@
 # deep-learning-challenge
 
+Clicking on each one of the notebooks will open in colab. An example of going to the site is below:
+Model 1 – AlphabetSoupCharity (Original) - https://colab.research.google.com/drive/1JY0PrdqNG3hZYu1QZi7hHkuqqxyftv-n
+Model 2 – AlphabetSoupCharity_Optimization - https://colab.research.google.com/drive/1rYrNfQlxDM1NhLP_RNMTvoqy576eviDn
+Model 3 – AlphabetSoupCharity_Optimization2 - https://colab.research.google.com/drive/1sssnXtqxeni3j7OUbfOid46UPH7xRWRN
+Model 4 – AlphabetSoupCharity_Optimization3 - https://colab.research.google.com/drive/12oSEwC2ylEp_FJVx3fGiiAii_NHPhV01
+
 The notebooks were copied directly from colab into the github repository. There were 4 notebooks total, the original and 3 additional for each change in the model.  Below is the analysis.
 
 
